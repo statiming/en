@@ -3,6 +3,7 @@ layout: post
 category : Trading 
 title : What's Edge 
 comments : false
+tagline : a pro's view 
 tags : [concept]
 ---
 {% include JB/setup %}
@@ -17,4 +18,4 @@ One of Goldman Sachs veteran quant trader once wrote:
 
 <br> 
 
-> You can have all the psychology you want, but unless you have a quantifiable edge with positive expectancy along with proper money management system, you¡¯re going to fail. From my institutional experience, I¡¯ve seen a lot of traders come and go, and a lot of them blamed their inadequacy on psychology, but I can honestly say that most of them had no real edge. I¡¯m not saying that a good psychological handle can¡¯t improve a skilled trader, but rather that most people aren¡¯t at the level where it¡¯s going to make much of a difference. 
+> You can have all the psychology you want, but unless you have a quantifiable edge with positive expectancy along with proper money management system, you're going to fail. From my institutional experience, I've seen a lot of traders come and go, and a lot of them blamed their inadequacy on psychology, but I can honestly say that most of them had no real edge. I'm not saying that a good psychological handle can't improve a skilled trader, but rather that most people aren't at the level where it's going to make much of a difference. 
