@@ -1,17 +1,17 @@
 ---
 layout: page
-title: 随机漫步
-tagline: 一个时序工程师的工作与梦想
+title: Random Walk 
+tagline: A Timing Engineer's Work and Imagnation 
 ---
 {% include JB/setup %}
 
-欢迎来到
+Welcome 
 
 ## Update Author Attributes
 
     $ rm -rf _posts/core-samples
 
-## 最新文章
+## Latest Pasts 
 
 <ul class="posts">
   {% for post in site.posts limit:5 %}
