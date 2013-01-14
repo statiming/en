@@ -19,5 +19,5 @@ Welcome
   {% endfor %}
 </ul>
 
-## Englisth Pages
-For non-Chinese reader, please read [Englisth Pages](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+## 中文页面
+中文读者请移步[中文页面](http://statiming.github.com/)
